@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-family: Merriweather, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.img {
+
+}
+
+.img-one {
+
+}
+
+.img-two {
+
+}
+
+h1 {
+
+}
+
+.nav {
+
+}
