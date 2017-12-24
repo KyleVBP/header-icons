@@ -70,7 +70,7 @@ h1 {
 .nav li {
   display: inline-block;
   border-right: 1px solid #a63f38;
-  width: calc(95%/3);
+  width: calc(95% / 3);
   box-sizing: border-box;
 }
 
